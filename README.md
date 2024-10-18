@@ -1,6 +1,6 @@
 <div align="center">    
  
-## CityScapesBrazil: Cenas urbana brasileira, representação do nordeste a sul do Brasil
+## CityScapesBrazil: Cenas urbanas brasileiras, representação do nordeste a sul do Brasil
 
 
 </div>
